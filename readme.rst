@@ -170,43 +170,57 @@ Konfigurationsmöglichkeiten der Validator-Tests
 
 Test-Cases
 ^^^^^^^^^^
-TEST_CASE_0 = 
+.. code-block:: python3
 
-...
+    TEST_CASE_0 = 
 
-TEST_CASE_5 = 
+    ...
 
-TEST_CASE_N =
+    TEST_CASE_5 = 
 
-N_TEST_CASES = 1
+    TEST_CASE_N =
+
+    N_TEST_CASES = 1
 
 Zufällige Zahlen
 ^^^^^^^^^^^^^^^^
-RANDOM_MIN = 0
+.. code-block:: python3
 
-RANDOM_MAX = 50
+    RANDOM_MIN = 0
 
-RANDOM_FLOAT = 0
+    RANDOM_MAX = 50
+
+    RANDOM_FLOAT = 0
 
 Verbiete Rekursion
 ^^^^^^^^^^^^^^^^^^
-RECURSION = FALSE
+.. code-block:: python3
+
+    RECURSION = FALSE
 
 Erlaube weitere Bibliotheken
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ALLOW_LIBRARIES =
+.. code-block:: python3
+
+    ALLOW_LIBRARIES =
 
 Strenger Vergleich
 ^^^^^^^^^^^^^^^^^^
-COMPARE_ALL = FALSE
+.. code-block:: python3
+
+    COMPARE_ALL = FALSE
 
 Ausgabe nacheinander testen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SEPARATOR = '\a'
+.. code-block:: python3
+
+    SEPARATOR = '\a'
 
 Zusätzliche strengere Kompilierung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-EXTRA_COMPILATION = 
+.. code-block:: python3
+
+    EXTRA_COMPILATION = 
 
 
 
