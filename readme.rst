@@ -58,7 +58,7 @@ Variante 3 ist wäre eher für eine permanente Installation zu empfehlen. Altern
 .. code-block:: sh
 
     sudo apt-get install python3-pip python3-venv
-    pip3 install --upgrade git+https://github.com/mgrapf/opensubmit-gi#egg=opensubmit-exec\&subdirectory=executor   # opensubmit installieren
+    pip3 install --upgrade 01_install/*.whl
 
 
 Test 1 - Statische Ausgaben
