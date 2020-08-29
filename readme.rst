@@ -192,7 +192,7 @@ Zufällige Zahlen
 
     RANDOM_FLOAT = 0
 
-Verbiete Rekursion
+Verbiete Schleifen
 ^^^^^^^^^^^^^^^^^^
 .. code-block:: python3
 
