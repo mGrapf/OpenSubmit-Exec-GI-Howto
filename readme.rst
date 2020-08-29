@@ -174,13 +174,19 @@ Test-Cases
 
     TEST_CASE_0 = 
 
-    ...
+    TEST_CASE_1 =
 
-    TEST_CASE_5 = 
+    TEST_CASE_2 =
+    
+    ...
+    
+Wiederholende Test-Cases
+^^^^^^^^^^^^^^^^^^^^^^^^ 
+.. code-block:: python3
 
     TEST_CASE_N =
 
-    N_TEST_CASES = 1
+    N_TEST_CASES = 3
 
 Zufällige Zahlen
 ^^^^^^^^^^^^^^^^
